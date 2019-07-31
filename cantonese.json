@@ -22,7 +22,7 @@
 	},{
 		"lang1": "Good Morning",
 		"lang2": "zou2 san4",
-		"other": ""
+		"other": "早晨"
 	},{
 		"lang1": "Sorry",
 		"lang2": "dui3 m4 zyu6",
@@ -30,7 +30,7 @@
 	},{
 		"lang1": "You're welcome",
 		"lang2": "m4 sai2 haak3 hei3",
-		"other": ""
+		"other": "唔使客氣"
 	},{
 		"lang1": "Go",
 		"lang2": "heoi3",
@@ -74,7 +74,7 @@
 	},{
 		"lang1": "Thank you",
 		"lang2": "do1 ze6",
-		"other": ""
+		"other": "多謝"
 	},{
 		"lang1": "It's all right",
 		"lang2": "m4 gan2 jiu3",
@@ -122,7 +122,7 @@
 	},{
 		"lang1": "Excuse me (sorry)",
 		"lang2": "m4 hou2 ji3 si3",
-		"other": ""
+		"other": "唔好意思"
 	},{
 		"lang1": "Get off Minibus",
 		"lang2": "m4 goi1, jau5 lok6",
@@ -154,7 +154,7 @@
 	},{
 		"lang1": "litte, litte",
 		"lang2": "siu2 siu2",
-		"other": ""
+		"other": "少少"
 	},{
 		"lang1": "How are you?",
 		"lang2": "nei5 hou2 ma3?",
@@ -174,7 +174,7 @@
 	},{
 		"lang1": "Cantonese",
 		"lang2": "gwong2 dung1 waa2",
-		"other": ""
+		"other": "廣東話"
 	},{
 		"lang1": "he / she",
 		"lang2": "keoi5",
@@ -222,15 +222,15 @@
 	},{
 		"lang1": "1",
 		"lang2": "jat1",
-		"other": ""
+		"other": "一"
 	},{
 		"lang1": "2",
 		"lang2": "ji6",
-		"other": ""
+		"other": "二"
 	},{
 		"lang1": "3",
 		"lang2": "saam1",
-		"other": ""
+		"other": "三"
 	},{
 		"lang1": "4",
 		"lang2": "sei3",
@@ -278,10 +278,10 @@
 	},{
 		"lang1": "Okay",
 		"lang2": "hou2 aa3",
-		"other": ""
+		"other": "好"
 	},{
 		"lang1": "How much is it?",
 		"lang2": "gei2 do1 shin3 aa3?",
-		"other": ""
+		"other": "幾多錢?"
 	}
 ]
